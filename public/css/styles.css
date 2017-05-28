@@ -1,0 +1,106 @@
+body {
+  font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  width: 90%;
+  margin: 25px auto;
+  line-height: 1.4em;
+  text-align: center;
+}
+
+section {
+  margin: 25px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+}
+h1 {
+  font-family: 'Just Me Again Down Here', cursive;
+  font-size: 85px;
+  text-align: center;
+  margin-top: 40px;
+  color:black;
+  padding: 25px;
+}
+h2 {
+  margin: 35px 0;
+}
+
+h3 {
+  font-family: 'Andale Mono', AndaleMono, monospace;
+  font-size: 45px;
+  text-align: left;
+  margin-top: 40px;
+  background-color: black;
+  color:white;
+  padding: 5px 0px 10px 55px;
+}
+
+nav {
+  margin: 25px 0;
+  text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 5px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fbc832;
+  font-size: 14px;
+}
+a:hover {
+  color: #c97779;
+}
+.lijn1 {
+  width: 100%;
+  height: 1px;
+  color: #fbc832;
+  background-color: #fbc832;
+  margin-top: 45px;
+}
+.lijn2 {
+  width: 100%;
+  height: 1px;
+  color: #fbc832;
+  background-color:#fbc832;
+}
+.afbeten {
+  width: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.titels {
+  color:black;
+  font-weight: bold;
+  font-size: 29px;
+  margin-bottom: 35px;
+  font-family: 'Just Me Again Down Here', cursive;
+}
+.titels:hover {
+  color:#fbc832;
+}
+
+.datum {
+ margin-left: -63%;
+ font-size: 10px;
+ font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+.datum2{
+  float: right;
+  font-size: 10px;
+  font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+
+}
+.icoon {
+  width: 25px;
+  padding-right: 20px;
+
+}

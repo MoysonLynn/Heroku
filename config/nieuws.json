@@ -1,0 +1,35 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "|| De oorsprong is belangrijk geworden ||",
+            "id": 212,
+            "datum": "19/05/2017 • 22:45",
+            "categorieen": ["Gezond","Eten"],
+            "samenvatting": "",
+            "body": "<p> Een trend die al een tijdje aan de gang is en die we in 2017 nog meer zullen zien. De oorsprong van producten is voor de doorsnee consument belangrijk geworden en dat merk je onder andere in de supermarkt. Eitjes van de boer uit Zwevezele, Brasvar varkentjes uit West-Vlaanderen of tomaten van het veld uit Wingene: het aanduiden van de oorsprong van producten geeft vertrouwen.</p>",
+            "afbeeldingl": "oorsprong.jpg",
+            "afbeeldings": "oorsprong.jpg"
+        },
+        {
+            "titel": "|| Pekelen en fermenteren ||",
+            "id": 210,
+            "datum": "18/05/2017 • 08:43",
+            "categorieen": ["Vegetarisch","Eten","Zout","Gezond"],
+            "samenvatting": "",
+            "body": "<p>De Belgische pickles kennen we natuurlijk allemaal. Maar in 2017 maak je deze lekker zelf en zullen we ze creatiever gebruiken in de keuken. Ook fermenteren (het toevoegen van bacteriën waardoor koolhydraten en suikers afgebroken worden en je producten zachter en zuurder worden) wordt helemaal hot.</p>",
+            "afbeeldingl": "flex-vegan.jpg",
+            "afbeeldings": "flex-vegan.jpg"
+        },
+        {
+            "titel": "|| Gastronomische maaltijden aan huis ||",
+            "id": 198,
+            "datum": "17/05/2017 • 06:06",
+            "categorieen": ["Eten"],
+            "samenvatting": "",
+            "body": "<p>We hadden het vorig jaar al even over afhaalmaaltijden en maaltijden aan huis. In 2017 zet deze trend zich verder en zullen meer en meer toprestaurants gebruik maken van ‘koerierdiensten’. Zo is de populaire leverdienst Deliveroo l even actief in onze grote steden en kan je er maaltijden bestellen van verschillende bekende (en minder bekende) restaurants.</p>",
+            "afbeeldingl": "groenten.jpg",
+            "afbeeldings": "groenten.jpg"
+        }
+    ]
+}
